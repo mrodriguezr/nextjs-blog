@@ -13,6 +13,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
+          New Pull Request:
           This is a sample website - visit <Link href="posts/first-post">our blog</Link>.
         </p>
       </section>
